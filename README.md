@@ -11,7 +11,7 @@ If this way failed, please instead go to this webpage:
 
 https://icesat-2.gsfc.nasa.gov/legacy-data/simpl/data/maypop3/R5/browse/017_20150813/1404/index.html
 
-and select the data file start from 2015-08-13 14:22:17 and end at 2015-08-13 14:27:27, click 【get】 and the downloading begin.
+and select the data file start from 2015-08-13 14:22:17 and end at 2015-08-13 14:27:27, click 【get】 and the downloading begins.
 
 Anyway, one of both two ways should work.
 
